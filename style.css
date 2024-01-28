@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(160, 175, 180);
+  }
+
+  .social-icon {
+    width: 50px;
+    margin: 10px; 
+  }
+  
+  .social-icon:hover {
+    filter: invert(10%);
+  }
+
+  .image {
+    width: 300px;
+  }
+  
+  .image.top {
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  
+  .image.bottom {
+    float: right;
+    margin-right: 150px;
+  }
+
+  .title-text h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 72pt;
+    text-align: center;
+    margin: 0; 
+  }
+
+  .coding-image {
+    width: 200px;
+    display: block;
+    margin: 15px;
+    margin-top: 0;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .alt-text ,.coding-header{
+    font-family: 'Agdasima', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 36pt;
+    margin-top: 0; 
+  }
+  .coding-text {
+    margin-top: 0;
+    font-size: 14pt;
+  }
+
+  .my-image {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    align-content: center;
+
+  }
+
+  .image-header,.skills-header{
+    font-family: 'Agdasima', sans-serif;
+    font-size: 36pt;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .skills-text{
+    font-family: 'Agdasima', sans-serif;
+    text-align: center;
+    font-size: 15pt;
+    width: 40%;
+    margin: auto;
+
+  }
+  .image-text {
+    font-family: 'Agdasima', sans-serif;
+    text-align: center;
+    font-size: 24pt;
+    width: 40%;
+    margin: auto;
+  }
+
+
+  .getintouch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .getintouch-alt {
+    margin-top: 5px;
+    font-size: 18pt;
+  }
+
+  .getintouch-header {
+    font-size: 36pt;
+    margin-top: 15px;
+  }
+  .bottom-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 100px;
+  }
