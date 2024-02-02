@@ -5,7 +5,7 @@ This is the source code for my personal website.
 ## Preview
 
 
-You can see a live preview of the website [here](https://oktay-kaplan.github.io/)
+You can see a live preview of the website [here](https://oktay-kaplan.github.io/Personal-Website.git/)
 
 ## Technologies Used
 
